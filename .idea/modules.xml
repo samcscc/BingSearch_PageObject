@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bing.iml" filepath="$PROJECT_DIR$/.idea/Bing.iml" />
+      <module fileurl="file://C:/BingSearch/.idea/BingSearch.iml" filepath="C:/BingSearch/.idea/BingSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StudentCopy/Test_Project_Page_Object/.idea/Test_Project_Page_Object.iml" filepath="$PROJECT_DIR$/../StudentCopy/Test_Project_Page_Object/.idea/Test_Project_Page_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StudentCopy/UserRoleLogin/.idea/UserRoleLogin.iml" filepath="$PROJECT_DIR$/../StudentCopy/UserRoleLogin/.idea/UserRoleLogin.iml" />
+    </modules>
+  </component>
+</project>
